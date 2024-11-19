@@ -1,0 +1,26 @@
+[
+    {
+        "Outlet": "Frevo",
+        "outletName": "Frevo - Brazilian Churrascaria",
+        "outletImage": "https://lh3.googleusercontent.com/p/AF1QipP1fTRFUKwzuFDyuX-PEUsNXgo0WBgzENglkflx=s680-w680-h510",
+        "timings": "6:00PM - 11:00PM",
+        "menus": [
+          {
+            "name": "Churrascaria Set Menu",
+            "link": "https://www.fairmont.com/palm-dubai/pdfs/frevo-menu-3-june-2024/"
+          },
+          {
+            "name": "Beverage Menu",
+            "link": "https://www.fairmont.com/palm-dubai/pdfs/frevo-beverage-list/"
+          }
+        ],
+        "discounts": [
+          {
+            "name": "Entertainer Voucher",
+            "discount": "Buy One Get One",
+            "applicable": "Three Dinners & Card Holder"
+          }
+        ],
+        "description": "Frevo is an authentic Brazilian restaurant where meats are carved tableside in true southern Brazilian style. Exotic salads, a selection of prime meat skewers and classic cocktails like the world famous caipirinha are all featured on the churrascaria-style menu."
+      }
+]
